@@ -1,4 +1,5 @@
-# RPA Challenge - Advice Group Solution
+git clone https://github.com/Marcuss-Viniciuss/RPA-Challenge.git
+cd RPA-Challenge# RPA Challenge - Advice Group Solution
 
 Solução desenvolvida por **Marcus Santos** para o desafio técnico de RPA da Advice Group. O objetivo é automatizar o preenchimento de formulários dinâmicos no site [RPA Challenge](https://rpachallenge.com).
 
@@ -30,8 +31,8 @@ O robô lê a base de dados Excel (`challenge.xlsx`) e submete os registros no p
 
 1.  **Clone este repositório** (ou baixe os arquivos):
     ```bash
-    git clone [https://github.com/Marcuss-Viniciuss/NOMEDO_SEU_REPO.git](https://github.com/Marcuss-Viniciuss/NOMEDO_SEU_REPO.git)
-    cd NOMEDO_SEU_REPO
+    git clone [https://github.com/Marcuss-Viniciuss/RPA-Challenge.git](https://github.com/Marcuss-Viniciuss/RPA-Challenge.git)
+    cd RPA-Challenge
     ```
     *(Substitua NOMEDO_SEU_REPO pelo nome real do seu repositório)*
 
