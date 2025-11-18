@@ -1,0 +1,47 @@
+2025-11-18 16:02:10,072 - INFO -  Iniciando automação RPA Challenge...
+2025-11-18 16:02:10,373 - INFO -  Planilha carregada com sucesso! Total de linhas: 10
+2025-11-18 16:02:10,373 - INFO - Iniciando navegador Chrome...
+2025-11-18 16:02:10,373 - INFO - ====== WebDriver manager ======
+2025-11-18 16:02:11,877 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:02:12,311 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:02:12,649 - INFO - There is no [win64] chromedriver "142.0.7444.175" for browser google-chrome "142.0.7444" in cache
+2025-11-18 16:02:12,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:02:13,439 - INFO - WebDriver version 142.0.7444.175 selected
+2025-11-18 16:02:13,445 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-18 16:02:13,445 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-18 16:02:13,871 - INFO - Driver downloading response is 200
+2025-11-18 16:02:14,339 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:02:15,530 - INFO - Driver has been saved in cache [C:\Users\vm200\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-18 16:02:20,287 - INFO - Desafio iniciado (Botão Start clicado)!
+2025-11-18 16:02:20,857 - INFO -  Rodada 1 concluída.
+2025-11-18 16:02:21,346 - INFO -  Rodada 2 concluída.
+2025-11-18 16:02:21,811 - INFO -  Rodada 3 concluída.
+2025-11-18 16:02:22,285 - INFO -  Rodada 4 concluída.
+2025-11-18 16:02:22,738 - INFO -  Rodada 5 concluída.
+2025-11-18 16:02:23,200 - INFO -  Rodada 6 concluída.
+2025-11-18 16:02:23,679 - INFO -  Rodada 7 concluída.
+2025-11-18 16:02:24,166 - INFO -  Rodada 8 concluída.
+2025-11-18 16:02:24,673 - INFO -  Rodada 9 concluída.
+2025-11-18 16:02:25,167 - INFO -  Rodada 10 concluída.
+2025-11-18 16:02:25,167 - INFO -  Desafio finalizado!
+2025-11-18 16:02:32,251 - INFO - Navegador encerrado.
+2025-11-18 16:10:17,321 - INFO -  Iniciando automação RPA Challenge...
+2025-11-18 16:10:17,525 - INFO -  Planilha carregada com sucesso! Total de linhas: 10
+2025-11-18 16:10:17,525 - INFO - Iniciando navegador Chrome...
+2025-11-18 16:10:17,526 - INFO - ====== WebDriver manager ======
+2025-11-18 16:10:18,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:10:19,328 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-18 16:10:19,673 - INFO - Driver [C:\Users\vm200\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-18 16:10:23,088 - INFO - Desafio iniciado (Botão Start clicado)!
+2025-11-18 16:10:23,632 - INFO -  Rodada 1 concluída.
+2025-11-18 16:10:24,115 - INFO -  Rodada 2 concluída.
+2025-11-18 16:10:24,610 - INFO -  Rodada 3 concluída.
+2025-11-18 16:10:25,097 - INFO -  Rodada 4 concluída.
+2025-11-18 16:10:25,561 - INFO -  Rodada 5 concluída.
+2025-11-18 16:10:26,031 - INFO -  Rodada 6 concluída.
+2025-11-18 16:10:26,503 - INFO -  Rodada 7 concluída.
+2025-11-18 16:10:26,980 - INFO -  Rodada 8 concluída.
+2025-11-18 16:10:27,439 - INFO -  Rodada 9 concluída.
+2025-11-18 16:10:27,907 - INFO -  Rodada 10 concluída.
+2025-11-18 16:10:27,907 - INFO -  Desafio finalizado!
+2025-11-18 16:10:35,003 - INFO - Navegador encerrado.
