@@ -1,6 +1,6 @@
-# RPA Challenge - Advice Group Solution
+# RPA Challenge 
 
-Solução desenvolvida por **Marcus Vinicius** para o desafio técnico de RPA da Advice Group. O objetivo é automatizar o preenchimento de formulários dinâmicos no site [RPA Challenge](https://rpachallenge.com).
+Solução desenvolvida por **Marcus Vinicius** para o desafio técnico de RPA. O objetivo é automatizar o preenchimento de formulários dinâmicos no site [RPA Challenge](https://rpachallenge.com).
 
 ## 📋 Sobre o Projeto
 
